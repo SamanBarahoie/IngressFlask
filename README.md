@@ -4,7 +4,7 @@
 This project deploys a simple Flask application on Kubernetes using Minikube and NGINX Ingress Controller. It demonstrates how to expose a Python web app through an Ingress route.
 
 ---
-
+ 
 ## 🚀 Stack
 
 - Flask (Python)
