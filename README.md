@@ -1,8 +1,11 @@
 
 # Flask on Kubernetes with Ingress (Minikube)
 
-
 A simple Flask application deployed on Kubernetes with Minikube and exposed through NGINX Ingress Controller. This project demonstrates creating a web service and routing traffic via an Ingress resource.
+
+
+
+
 ---
  
 ## 🚀 Stack
